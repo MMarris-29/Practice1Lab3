@@ -4,3 +4,7 @@
 # that many times. The steps are in README.md.
 #
 # Write your code below this comment.
+number = int(input("How many times? "))
+word = str(input("What should I say? "))
+print(word * number)
+#  C:\CS1430\Practice1/check.py
